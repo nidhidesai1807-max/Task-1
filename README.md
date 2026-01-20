@@ -1,1 +1,2 @@
 # Task-1
+In this task, we created a simple Python program that prints a user’s name, internship role, and the current date. We used variables to store values instead of hardcoding them and accepted user input to make the program interactive. The script was executed from the terminal to understand how the program runs line by line, and the focus was on writing clean, readable code with a clear execution flow.
